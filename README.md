@@ -6,10 +6,12 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 
 # Hi, I'm Daud Raza
 
-**Full Stack Developer** · Building web apps & digital solutions
+**Full Stack Developer** · Automating boring stuff · Scraping complex data
 
 [![Repositories](https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daudraza369?tab=repositories)
 
@@ -17,12 +19,12 @@
 
 ### About Me
 
-I build full-stack web applications with **React**, **TypeScript**, and **Supabase**.  
-Focused on clean code, UX, and scalable solutions for businesses.
+Low-code / no-code vibe coder who loves solving complex problems.  
+I automate boring stuff, scrape complex data, and build web apps that actually ship.
 
-- 🔭 Working on District Flowers projects (tracking, campaigns, order management)
-- 🌐 Bilingual apps (English / Arabic, RTL support)
-- 📱 PWA & mobile-first development
+- 🔭 District Flowers (tracking, campaigns, order management)
+- 🤖 Automation · Web scraping · Data pipelines
+- 🌐 Bilingual apps (English / Arabic, RTL)
 - 🛠️ React · TypeScript · Supabase · Vite
 
 ---
