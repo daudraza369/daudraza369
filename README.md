@@ -56,4 +56,8 @@ I automate boring stuff, scrape complex data, and build web apps that actually s
 
 *Profile optimized with GitHub Pro*
 
+---
+
+*Earning achievements—one PR at a time*
+
 </div>
